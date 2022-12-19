@@ -1,3 +1,3 @@
-# Codacademy_Projects
+# Codacedemy_Projects
 
-This repo contains completed projects from the [Codacademy Website](https://www.codecademy.com/)
+This repo contains completed projects from the [Codecademy Website](https://www.codecademy.com/)
